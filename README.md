@@ -1,2 +1,3 @@
 # Belajar-Kolaborasi
-Belajar kolaborasi Git menggunakan GitHub
+Belajar GitHub di Dicoding sangat menyenangkan.  
+Mendokumentasikan dengan GitHub menjadi lebih mudah.  
